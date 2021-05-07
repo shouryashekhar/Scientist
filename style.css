@@ -21,15 +21,16 @@ h5{
 
 p{
    font-style: italic;
-   font-size: 20px; 
+   font-size: 20px;
 }
 
 h1{
     font-family: 'Courgette', serif;
 }
 
-.bio1{
+.bio3{
     border: solid;
+    border-width: 5px;
     border-color: indigo;
     box-shadow: indigo;
 }
@@ -44,8 +45,9 @@ img{
     border-width: 5px;
 }
 
-.bio2{
+.bio1{
     border: solid;
+    border-width: 5px;
     border-color: f21170;
     box-shadow: f21170;
 }
