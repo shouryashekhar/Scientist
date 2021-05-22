@@ -7,7 +7,10 @@
 
 .albert{
     border-color: rgb(50, 209, 201);
-    
+}
+
+.arya{
+    border-color: rgb(220, 20, 60);
 }
 
 h5{
@@ -24,6 +27,10 @@ p{
    font-size: 20px;
 }
 
+.unique{
+    margin-bottom: 0px;
+}
+
 h1{
     font-family: 'Courgette', serif;
 }
@@ -31,8 +38,9 @@ h1{
 .bio3{
     border: solid;
     border-width: 5px;
-    border-color: indigo;
-    box-shadow: indigo;
+    border-color: blue;
+    box-shadow: blue;
+    padding-left: 5px;
 }
 
 img{
@@ -50,8 +58,50 @@ img{
     border-width: 5px;
     border-color: f21170;
     box-shadow: f21170;
+    padding-left: 5px;
 }
 
 .rmn{
     border-color: ff6701;
+}
+
+a:hover{
+    color: teal;
+}
+
+a:link{
+    color: blueviolet;
+}
+
+.undr{
+    text-decoration: underline red;
+}
+
+.bio2{
+    border: solid;
+    border-width: 5px;
+    border-color: rgb(65, 196, 13);
+    box-shadow: rgb(65, 196, 13);
+    padding-left: 5px;
+}
+
+.div1{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 50px;
+    margin-bottom: 0px;
+}
+
+.sub1{
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 2px;
+}
+
+.sub2{
+    margin-top: 3px;
+    margin-right: 0px;
+    margin-left: 100px;
+    margin-bottom: 3px;
 }
