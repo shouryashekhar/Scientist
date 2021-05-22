@@ -73,6 +73,14 @@ a:link{
     color: blueviolet;
 }
 
+a:visited{
+    color: purple;
+}
+
+a:active{
+    color: red;
+}
+
 .undr{
     text-decoration: underline red;
 }
